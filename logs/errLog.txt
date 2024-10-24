@@ -1,0 +1,3 @@
+20241022	13:39:04	546cff7c-cc10-450d-8b31-dce3838f0cb7	Error Not allowed by CORS
+20241022	13:39:05	1286cc7e-0dd1-4a05-adda-83a8864d64d9	Error Not allowed by CORS
+20241023	00:16:48	6ad5507e-c8f3-4572-bd00-6bf5933793de	TypeError req.accepted is not a function
